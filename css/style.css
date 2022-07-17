@@ -157,3 +157,9 @@ p {
   left: 18.75rem;
   position: absolute;
 }
+
+@media (max-width: 1260px){
+  .top-cloud{
+    width: 0;
+    height: 0;
+  }
